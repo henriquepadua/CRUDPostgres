@@ -2,7 +2,7 @@
     xmls:xsl="https://www.w3.org/2001/XMLSchema-instance"
     xml:schemaLocation="https:/maven.apache.org/PM/4.0.0 https://mavaen.apache.org/xsd/maven-4.0.0.xd">
     <modelVersion>4.0.0</modelVersion>
-    <groupID>com.ti2cc</groupID>
+    <groupID></groupID>
     <artifactID>01ConexaoPostgres</artifactID>
     <version>0.0.1-SNAPSHOT</version>
     <dependencies>
