@@ -1,0 +1,15 @@
+<project> xmls="https://maven.apache.org/POM/4.0.0"
+    xmls:xsl="https://www.w3.org/2001/XMLSchema-instance"
+    xml:schemaLocation="https:/maven.apache.org/PM/4.0.0 https://mavaen.apache.org/xsd/maven-4.0.0.xd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupID>com.ti2cc</groupID>
+    <artifactID>01ConexaoPostgres</artifactID>
+    <version>0.0.1-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.Postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.2/16</version>
+        </dependency>
+    </dependencies>
+</project>
